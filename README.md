@@ -1,8 +1,8 @@
-## Coursera - Getting and Cleaning Data Project
-# Date: 6/19/15
-# Owner: Kevin Creese
+# Coursera - Getting and Cleaning Data Project
+## Date: 6/19/15
+## Owner: Kevin Creese
 
-### Overview
+# Overview
 The objective of this project was to create a tidy data set which utilize data collected from a study completed by Smartlab - Non Linear Complete Systems Laboratory related to Human Activity Recognition Using Smartphone Dataset.  A full description of the data used to build this tidy data set can be found at:
 [The UCI Machine Learning Repository] 
 (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
